@@ -16,3 +16,6 @@ by 齋藤康毅
     </td>
   </tr>
 </table>
+
+# Github
+https://github.com/oreilly-japan/deep-learning-from-scratch
